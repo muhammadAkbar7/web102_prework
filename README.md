@@ -1,19 +1,19 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Games
 
-Submitted by: **Your Name Here**
+Submitted by: Muhammad Akbar
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Games is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 16 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [y] The introduction section explains the background of the company and how many games remain unfunded.
+* [y] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [y] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [y] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -23,18 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<div style="position: relative; padding-bottom: 54.21686746987952%; height: 0;"><iframe src="https://www.loom.com/embed/b5bd1a7c4f7a4215a3bf487a1b63a333?sid=48962544-c523-40f6-8d7f-5222328491b6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I'd say the hardest parts was sometimes figuring out why a certain feature wasn't working or a certain value was showing up. This happened because I sometimes didn't refere the correct variables or placed things out of the scope of functions. 
 
 ## License
 
